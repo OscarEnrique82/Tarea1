@@ -4,6 +4,7 @@
         ' Declaración de variables
         Dim Edad As Integer
         ' Toma de datos
+        ' Ciclo para continuar ingresando edades
         While True
             Console.WriteLine("------------------------------")
             Console.WriteLine("Ingrese la edad de la persona:")
